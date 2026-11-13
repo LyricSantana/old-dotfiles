@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Nicotine+
+Exec=nicotine
+Terminal=false
+StartupNotify=false

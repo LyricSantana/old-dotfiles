@@ -1,0 +1,1 @@
+1794034496997	SessionStore	ERROR	NotReadableError when reading session file: recovery: NotReadableError: Could not read `/home/lyric/.config/zen/8ydz9ew1.Default (release)/sessionstore-backups/recovery.jsonlz4': could not decompress file: buffer is too small (NS_ERROR_FILE_CORRUPTED) No traceback available

@@ -1,0 +1,9 @@
+# hyprviz configuration (created automatically)
+
+general {
+    gaps_in = 2
+}
+
+decoration {
+    rounding = 14
+}
